@@ -1,0 +1,46 @@
+# Site settings
+title: Health Pedia
+name: Health Pedia
+description: health and safety
+baseurl: "" 
+url: http://healthpedia.co.uk
+logo: '/assets/logo.png'
+# User settings
+username: Health Pedia
+user_description: All New Indian,South Indian and World wide HomeMade Recipes
+user_title: Health Pedia
+email: healthpedia4u@gmail.com
+twitter_username: healthpedia
+github_username:  healthpedia
+gplus_username:  healthpedia
+disqus_username: healthpedia
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:categories/:title
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
