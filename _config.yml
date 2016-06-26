@@ -3,7 +3,7 @@ title: Health Pedia
 name: Health Pedia
 description: health and safety
 baseurl: "" 
-url: http://healthpedia.co.uk
+url: https://healthpedia.co.uk
 logo: '/assets/logo.png'
 # User settings
 username: Health Pedia
@@ -14,7 +14,10 @@ twitter_username: healthpedia
 github_username:  healthpedia
 gplus_username:  healthpedia
 disqus_username: healthpedia
-
+paginate: 6
+paginate_path: /page/:num/
+infinite_scroll: false
+gems: [jekyll-paginate]
 # Build settings
 markdown: kramdown
 kramdown:
