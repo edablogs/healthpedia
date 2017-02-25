@@ -1,14 +1,16 @@
 # Site settings
 title: Health Pedia
 name: Health Pedia
-description: health and safety
+description: "eating healthy,fit women,fitness,fitness tips,health and fitness,health and fitness blogs,healthiest foods,healthy diet,healthy eating,healthy food,healthy meals"
+tagline: "health department"
+keywords: "eating healthy,fit women,fitness,fitness tips,health and fitness,health and fitness blogs,healthiest foods,healthy diet,healthy eating,healthy food,healthy meals,healthy recipes"
 baseurl: "" 
 url: https://healthpedia.co.uk
 logo: '/assets/logo.png'
 # User settings
 username: Health Pedia
-user_description: All New Indian,South Indian and World wide HomeMade Recipes
-user_title: Health Pedia
+user_description: Say good bye to drug addiction, stop drug misuse,free drug and alcohol treatment home,no addiction no alcoholic, goodbye letter to drugs,addiction and alcoholic
+user_title: Health Department
 email: healthpedia4u@gmail.com
 twitter_username: healthpedia
 github_username:  healthpedia
