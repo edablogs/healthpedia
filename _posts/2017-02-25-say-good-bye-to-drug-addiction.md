@@ -1,3 +1,16 @@
+---
+layout: "post"
+title: "Say good bye to drug addiction"
+date: "2017-02-25 06:47"
+categories: ["drug prevention"]
+tags: ["addicted","rehabs","drug rehabs","teen drug abuse","addiction of drugs","drug abuse","alcohol abuse","heroin addiction","drug treatment"]
+description: "Say good bye to drug addiction, stop drug misuse,free drug and alcohol treatment home,no addiction no alcoholic, goodbye letter to drugs,addiction and alcoholic"
+keywords: "breaking up with an alcoholic,goodbye letter to drugs,addicted,alcoholic,drug addiction,substance abuse,drug addiction treatment,addiction treatment,drug and alcohol recovery
+is drug addiction a disease,drug and alcohol treatment,drug misuse"
+comments: true
+author: Health Pedia
+---
+
 Say good bye to drug addiction
 ------------------------------
 
