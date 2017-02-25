@@ -24,6 +24,10 @@ many know and comprehend the importance and ramifications of dependence
 thus it stays a standout amongst the most inadequately treated
 sicknesses on the planet.
 
+[![Say good bye to drug addiction](https://healthpedia.co.uk/wp-content/uploads/2017/02/drug_addiction
+.jpg)](https://healthpedia.co.uk/wp-content/uploads/2017/02/drug_addiction
+.jpg)
+
 ### The Problem
 
 Fixation is an organic malady. It is related with a few basic and
