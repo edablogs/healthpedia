@@ -20,6 +20,8 @@ lover has, the differences in both personalities, one of a kind
 expectancies, exceptional idea procedure, which in the long run shape
 and describe a type of relationship.
 
+[![Different types of relationship you could experience in life](https://healthpedia.co.uk/wp-content/uploads/2017/03/different-types-of-relationships-you-could-experience-in-life.jpg)](https://healthpedia.co.uk/wp-content/uploads/2017/03/different-types-of-relationships-you-could-experience-in-life.jpg)
+
 In case you are not satisfied with the form of courting you are into,
 you have to communicate along with your partner. It could help higher
 the compatibility among the two and help you both apprehend every other.
